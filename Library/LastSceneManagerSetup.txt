@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/level_win.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/level_win.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/level_win.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/test.unity
+  isLoaded: 1
+  isActive: 1
